@@ -3,7 +3,6 @@
 1. ![a](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/15-13-15-54-cautrucdulieu.png)   [Algorithms](https://github.com/Zenfection/Programing_Book/raw/main/Algorithms.pdf)
 2. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-46-55-icons8_android_os_64px.png" title="" alt="a" width="53">  [Android](https://github.com/Zenfection/Programing_Book/raw/main/Android.pdf)
 3. ![Angular_full_color_logo.svg - 01.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/15-13-35-31-Angular_full_color_logo.svg%20-%2001.png)
-   - [Angular2+](https://github.com/Zenfection/CTU/blob/main/Programing%20Book/Angular2%2B.pdf)
    - [Angular2+](https://github.com/Zenfection/Programing_Book/raw/main/Angular2%2B.pdf)
    - [AngularJS](https://github.com/Zenfection/Programing_Book/raw/main/AngularJS.pdf)
 4. ![previewfile_1419312202 - 01.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/15-13-39-35-previewfile_1419312202%20-%2001.png)  [Bash](https://github.com/Zenfection/Programing_Book/raw/main/Bash.pdf)
